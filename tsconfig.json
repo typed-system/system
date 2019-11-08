@@ -4,9 +4,9 @@
   // files as one compilation.
   "files": [],
   "references": [
-    { "path": "typed-system" },
+    { "path": "packages/typed-system" },
     // { "path": "engine" },
-    { "path": "css" },
+    { "path": "packages/css" },
     // { "path": "system" },
     // { "path": "background" },
     // { "path": "color" },

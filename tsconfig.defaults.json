@@ -40,6 +40,9 @@
     "downlevelIteration": true,
     // Transpile each file as a separate module (similar to 'ts.transpileModule').
     "isolatedModules": true,
+    // Typescript 3.7
+    // "useDefineForClassFields": true,
+    // "disableSourceOfProjectReferenceRedirect": false,
 
     /* Strict Type-Checking Options */
 
