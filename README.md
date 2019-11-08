@@ -188,7 +188,7 @@ TODO
 
 ---
 
-#### Space
+#### Spacing
 
 [`@typed-system/spacing`](https://github.com/typed-system/typed-system/tree/master/packages/spacing)
 
@@ -231,11 +231,11 @@ TODO
 
 [`@typed-system/variant`](https://github.com/typed-system/typed-system/tree/master/packages/system)
 
-| Function Name | Prop        | Theme Key     |
-| ------------- | ----------- | ------------- |
-| `textStyle`   | `textStyle` | `textStyles`  |
-| `colorStyle`  | `colors`    | `colorStyles` |
-| `buttonStyle` | `variant`   | `buttons`     |
+| Prop         | Function Name | Theme Key      |
+| ------------ | ------------- | -------------- |
+| `$textStyle` | `textStyles`  | `textStyles`   |
+| `$colors`    | `colorStyle`  | `colorStyles`  |
+| `$variant`   | `buttonStyle` | `buttonStyles` |
 
 ## API
 
