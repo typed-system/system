@@ -27,11 +27,5 @@
   },
   "bugs": {
     "url": "https://github.com/typed-system/typed-system/issues"
-  },
-  "keywords": [
-    "typescript",
-    "typed-system",
-    "design-system",
-    "react"
-  ]
+  }
 }

@@ -3,10 +3,22 @@
   "compilerOptions": {
     "outDir": "lib",
     "rootDir": "src",
-    "isolatedModules": true
   },
   "references": [
-    { "path": "../pkg1" },
-    { "path": "../pkg2" }
+    // { "path": "../typed-system" }, exclude self
+    { "path": "../engine" },
+    { "path": "../css" },
+    { "path": "../system" },
+    { "path": "../background" },
+    { "path": "../color" },
+    { "path": "../layout" },
+    { "path": "../border" },
+    { "path": "../flexbox" },
+    { "path": "../grid" },
+    { "path": "../position" },
+    { "path": "../shadow" },
+    { "path": "../spacing" },
+    { "path": "../typography" },
+    { "path": "../variant" }
   ]
 }
