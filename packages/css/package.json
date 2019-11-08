@@ -16,7 +16,7 @@
     "/lib"
   ],
   "scripts": {
-    "prepublishOnly": "tsc -b ."
+    "build": "tsc -b ."
   },
   "publishConfig": {
     "registry": "https://registry.yarnpkg.com"

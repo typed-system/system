@@ -1,1 +1,1 @@
-export const system = {}
+export * from "@typed-system/css"

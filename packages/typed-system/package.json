@@ -16,7 +16,7 @@
     "/lib"
   ],
   "scripts": {
-    "prepublishOnly": "tsc -b ."
+    "build": "tsc -b ."
   },
   "publishConfig": {
     "registry": "https://registry.yarnpkg.com"
@@ -27,5 +27,8 @@
   },
   "bugs": {
     "url": "https://github.com/typed-system/typed-system/issues"
+  },
+  "dependencies": {
+    "@typed-system/css": "^0.0.1"
   }
 }

@@ -244,3 +244,25 @@ TODO
 ## Philosophy
 
 TODO
+
+## Workflow
+
+Build all packages:
+
+```shell
+yarn lerna run build
+```
+
+Build one package:
+
+```shell
+yarn lerna run --scope package-name build
+```
+
+e.g. the following will only build the `@typed-system/css` package:
+
+```shell
+yarn lerna run --scope @typed-system/css build
+```
+
+See [`filter-options`](https://github.com/lerna/lerna/tree/master/core/filter-options) for more options.
