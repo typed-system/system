@@ -13,7 +13,7 @@
     // Specify library files to be included in the compilation:
     "lib": [],
     // Allow JavaScript files to be compiled.
-    "allowJs": false,
+    "allowJs": true,
     // Report errors in .js files.
     "checkJs": true,
     // Specify JSX code generation: 'preserve', 'react-native', or 'react'.
