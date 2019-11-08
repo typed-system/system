@@ -1,7 +1,8 @@
 {
   "name": "typed-system",
   "private": true,
-  "author": "Martin Broder <mrtnbroder@gmail.com>",
+  "description": "Typed System Monorepo",
+  "author": "Martin Broder <mrtnbroder@gmail.com> (https://martinbroder.com)",
   "homepage": "https://typed-system.com",
   "license": "MIT",
   "workspaces": [
@@ -19,11 +20,5 @@
     "hooks": {
       "precommit": "lint-staged"
     }
-  },
-  "lint-staged": {
-    "*.{js,md}": [
-      "prettier --write",
-      "git add"
-    ]
   }
 }
