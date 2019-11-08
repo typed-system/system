@@ -2,23 +2,6 @@
   "extends": "../tsconfig.defaults.json",
   "compilerOptions": {
     "outDir": "lib",
-    "rootDir": "src",
-  },
-  "references": [
-    // { "path": "../typed-system" }, exclude self
-    { "path": "../engine" },
-    { "path": "../css" },
-    { "path": "../system" },
-    { "path": "../background" },
-    { "path": "../color" },
-    { "path": "../layout" },
-    { "path": "../border" },
-    { "path": "../flexbox" },
-    { "path": "../grid" },
-    { "path": "../position" },
-    { "path": "../shadow" },
-    { "path": "../spacing" },
-    { "path": "../typography" },
-    { "path": "../variant" }
-  ]
+    "rootDir": "src"
+  }
 }

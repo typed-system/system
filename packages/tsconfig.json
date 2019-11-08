@@ -5,19 +5,19 @@
   "files": [],
   "references": [
     { "path": "typed-system" },
-    { "path": "engine" },
+    // { "path": "engine" },
     { "path": "css" },
-    { "path": "system" },
-    { "path": "background" },
-    { "path": "color" },
-    { "path": "layout" },
-    { "path": "border" },
-    { "path": "flexbox" },
-    { "path": "grid" },
-    { "path": "position" },
-    { "path": "shadow" },
-    { "path": "spacing" },
-    { "path": "typography" },
-    { "path": "variant" }
+    // { "path": "system" },
+    // { "path": "background" },
+    // { "path": "color" },
+    // { "path": "layout" },
+    // { "path": "border" },
+    // { "path": "flexbox" },
+    // { "path": "grid" },
+    // { "path": "position" },
+    // { "path": "shadow" },
+    // { "path": "spacing" },
+    // { "path": "typography" },
+    // { "path": "variant" }
   ]
 }
