@@ -132,9 +132,9 @@ TODO
 
 | Prop                   | CSS Property            | Theme Key   |
 | ---------------------- | ----------------------- | ----------- |
-| `$gridGap`             | `grid-gap`              | `space`     |
-| `$gridRowGap`          | `grid-row-gap`          | `space`     |
-| `$gridColumnGap`       | `grid-column-gap`       | `space`     |
+| `$gridGap`             | `grid-gap`              | `spacing`   |
+| `$gridRowGap`          | `grid-row-gap`          | `spacing`   |
+| `$gridColumnGap`       | `grid-column-gap`       | `spacing`   |
 | `$gridColumn`          | `grid-column`           | none        |
 | `$gridRow`             | `grid-row`              | none        |
 | `$gridArea`            | `grid-area`             | none        |
@@ -176,10 +176,10 @@ TODO
 | ----------- | ------------ | ----------- |
 | `$position` | `position`   | none        |
 | `$zIndex`   | `z-index`    | `zIndices`  |
-| `$top`      | `top`        | `space`     |
-| `$right`    | `right`      | `space`     |
-| `$bottom`   | `bottom`     | `space`     |
-| `$left`     | `left`       | `space`     |
+| `$top`      | `top`        | `spacing`   |
+| `$right`    | `right`      | `spacing`   |
+| `$bottom`   | `bottom`     | `spacing`   |
+| `$left`     | `left`       | `spacing`   |
 
 ---
 
@@ -196,24 +196,24 @@ TODO
 
 #### Space
 
-[`@typed-system/space`](https://github.com/typed-system/typed-system/tree/master/packages/space)
+[`@typed-system/spacing`](https://github.com/typed-system/typed-system/tree/master/packages/spacing)
 
-| Prop                    | CSS Property                       | Theme Key   |
-| ----------------------- | ---------------------------------- | ----------- |
-| `$m`, `$margin`         | `margin`                           | `space`     |
-| `$mt`, `$marginTop`     | `margin-top`                       | `space`     |
-| `$mr`, `$marginRight`   | `margin-right`                     | `space`     |
-| `$mb`, `$marginBottom`  | `margin-bottom`                    | `space`     |
-| `$ml`, `$marginLeft`    | `margin-left`                      | `space`     |
-| `$mx`                   | `margin-left`, `margin-right`      | `space`     |
-| `$my`                   | `margin-top`, `margin-bottom`      | `space`     |
-| `$p`, `$padding`        | `padding`                          | `space`     |
-| `$pt`, `$paddingTop`    | `padding-top`                      | `space`     |
-| `$pr`, `$paddingRight`  | `padding-right`                    | `space`     |
-| `$pb`, `$paddingBottom` | `padding-bottom`                   | `space`     |
-| `$pl`, `$paddingLeft`   | `padding-left`                     | `space`     |
-| `$px`                   | `padding-left`, `padding-right`    | `space`     |
-| `$py`                   | `padding-top`, `padding-bottom`    | `space`     |
+| Prop                    | CSS Property                       | Theme Key     |
+| ----------------------- | ---------------------------------- | ------------- |
+| `$m`, `$margin`         | `margin`                           | `spacing`     |
+| `$mt`, `$marginTop`     | `margin-top`                       | `spacing`     |
+| `$mr`, `$marginRight`   | `margin-right`                     | `spacing`     |
+| `$mb`, `$marginBottom`  | `margin-bottom`                    | `spacing`     |
+| `$ml`, `$marginLeft`    | `margin-left`                      | `spacing`     |
+| `$mx`                   | `margin-left`, `margin-right`      | `spacing`     |
+| `$my`                   | `margin-top`, `margin-bottom`      | `spacing`     |
+| `$p`, `$padding`        | `padding`                          | `spacing`     |
+| `$pt`, `$paddingTop`    | `padding-top`                      | `spacing`     |
+| `$pr`, `$paddingRight`  | `padding-right`                    | `spacing`     |
+| `$pb`, `$paddingBottom` | `padding-bottom`                   | `spacing`     |
+| `$pl`, `$paddingLeft`   | `padding-left`                     | `spacing`     |
+| `$px`                   | `padding-left`, `padding-right`    | `spacing`     |
+| `$py`                   | `padding-top`, `padding-bottom`    | `spacing`     |
 
 ---
 
