@@ -1,0 +1,23 @@
+{
+  // "files" should stay "[]" as this will prevent an incorrect invocation of
+  // tsc without -b from trying to build the entire packages folder source
+  // files as one compilation.
+  "files": [],
+  "references": [
+    { "path": "typed-system" },
+    { "path": "engine" },
+    { "path": "css" },
+    { "path": "system" },
+    { "path": "background" },
+    { "path": "color" },
+    { "path": "layout" },
+    { "path": "border" },
+    { "path": "flexbox" },
+    { "path": "grid" },
+    { "path": "position" },
+    { "path": "shadow" },
+    { "path": "spacing" },
+    { "path": "typography" },
+    { "path": "variant" }
+  ]
+}

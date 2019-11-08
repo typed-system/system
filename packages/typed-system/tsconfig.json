@@ -1,0 +1,12 @@
+{
+  "extends": "../tsconfig.defaults.json",
+  "compilerOptions": {
+    "outDir": "lib",
+    "rootDir": "src",
+    "isolatedModules": true
+  },
+  "references": [
+    { "path": "../pkg1" },
+    { "path": "../pkg2" }
+  ]
+}
