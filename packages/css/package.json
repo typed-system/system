@@ -1,10 +1,10 @@
 {
   "name": "@typed-system/css",
   "version": "0.0.1",
-  "description": "Converts Objects to Typed System CSS Objects.",
+  "description": "Converts Typed System CSS Objects to CSS.",
   "author": "Martin Broder <mrtnbroder@gmail.com> (https://martinbroder.com)",
   "license": "MIT",
-  "homepage": "https://github.com/typed-system/typed-system/tree/master/packages/css#readme",
+  "homepage": "https://github.com/typed-system/typed-system/tree/master/packages/css",
   "typings": "lib/index.d.ts",
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",

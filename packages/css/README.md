@@ -1,6 +1,6 @@
 # `@typed-system/css`
 
-> Converts Objects to Typed System CSS Objects.
+> Converts Typed System CSS Objects to CSS.
 
 `yarn add @typed-system/css`
 
