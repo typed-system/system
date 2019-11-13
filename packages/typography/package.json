@@ -1,0 +1,32 @@
+{
+  "name": "@typed-system/typography",
+  "version": "0.0.1",
+  "description": "CSS Typography related style props.",
+  "author": "Martin Broder <mrtnbroder@gmail.com> (https://martinbroder.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/typed-system/typed-system/tree/master/packages/typography",
+  "typings": "lib/index.d.ts",
+  "main": "lib/index.cjs.js",
+  "module": "lib/index.esm.js",
+  "browser": {
+    "lib/index.cjs.js": "lib/index.cjs.js",
+    "lib/index.esm.js": "lib/index.esm.js"
+  },
+  "sideEffects": false,
+  "files": [
+    "/lib"
+  ],
+  "scripts": {
+    "build": "tsc -b ."
+  },
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typed-system/typed-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/typed-system/typed-system/issues"
+  }
+}
