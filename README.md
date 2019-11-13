@@ -1,6 +1,9 @@
-# Typed System
-
-Typed System is a Toolkit to create your own Design System.
+<div align="center">
+  <a href="https://github.com/typed-system/typed-system/">
+    <img alt="Typed System Logo" width="400" src="./website/assets/images/logo-typed-system.svg"/>
+  </a>
+  <p>Typed System is a Toolkit to create your own Design System.<p>
+</div>
 
 ## Getting Started
 
