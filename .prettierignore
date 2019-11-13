@@ -1,0 +1,4 @@
+/packages/**/lib
+/docs
+/node_modules
+/website

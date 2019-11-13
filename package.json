@@ -8,8 +8,13 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "prettier": "prettier --list-different \"*.{md,tsx,ts}\"",
+    "prettier:fix": "prettier --write \"*.{md,tsx,ts}\""
+  },
   "devDependencies": {
     "lerna": "^3.18.3",
+    "prettier": "^1.19.1",
     "typescript": "^3.7.2"
   },
   "repository": {

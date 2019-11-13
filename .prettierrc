@@ -1,0 +1,12 @@
+{
+  "proseWrap": "never",
+  "semi": false,
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "printWidth": 80,
+  "useTabs": false,
+  "quoteProps": "as-needed",
+  "tabWidth": 2,
+  "htmlWhitespaceSensitivity": "css",
+  "trailingComma": "all"
+}
