@@ -4,20 +4,19 @@
   // files as one compilation.
   "files": [],
   "references": [
-    { "path": "packages/typed-system" },
-    // { "path": "engine" },
+    { "path": "packages/background" },
+    { "path": "packages/border" },
+    { "path": "packages/color" },
     { "path": "packages/css" },
-    // { "path": "system" },
-    // { "path": "background" },
-    // { "path": "color" },
-    // { "path": "layout" },
-    // { "path": "border" },
-    // { "path": "flexbox" },
-    // { "path": "grid" },
-    // { "path": "position" },
-    // { "path": "shadow" },
-    // { "path": "spacing" },
-    // { "path": "typography" },
-    // { "path": "variant" }
+    { "path": "packages/engine-react" },
+    { "path": "packages/flexbox" },
+    { "path": "packages/grid" },
+    { "path": "packages/layout" },
+    { "path": "packages/position" },
+    { "path": "packages/shadow" },
+    { "path": "packages/spacing" },
+    { "path": "packages/typed-system" },
+    { "path": "packages/typography" },
+    { "path": "packages/variant" }
   ]
 }
