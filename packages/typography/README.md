@@ -1,8 +1,12 @@
 # `@typed-system/typography`
 
-> CSS Typography related style props.
+CSS Typography related style props.
 
-`yarn add @typed-system/typography`
+```shell
+yarn add @typed-system/typography
+```
+
+---
 
 | Prop             | CSS Property     | Theme Key        |
 | ---------------- | ---------------- | ---------------- |

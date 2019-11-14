@@ -1,8 +1,12 @@
 # `@typed-system/grid`
 
-> CSS Grid related style props.
+CSS Grid related style props.
 
-`yarn add @typed-system/grid`
+```shell
+yarn add @typed-system/grid
+```
+
+---
 
 | Prop                   | CSS Property            | Theme Key |
 | ---------------------- | ----------------------- | --------- |

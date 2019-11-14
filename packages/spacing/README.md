@@ -1,8 +1,12 @@
 # `@typed-system/spacing`
 
-> CSS Spacing related style props.
+CSS Spacing related style props.
 
-`yarn add @typed-system/spacing`
+```shell
+yarn add @typed-system/spacing
+```
+
+---
 
 | Prop                    | CSS Property                    | Theme Key |
 | ----------------------- | ------------------------------- | --------- |

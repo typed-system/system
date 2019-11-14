@@ -1,8 +1,12 @@
 # `@typed-system/flexbox`
 
-> CSS Flexbox related style props.
+CSS Flexbox related style props.
 
-`yarn add @typed-system/flexbox`
+```shell
+yarn add @typed-system/flexbox
+```
+
+---
 
 | Prop              | CSS Property       | Theme Key |
 | ----------------- | ------------------ | --------- |

@@ -1,8 +1,12 @@
 # `@typed-system/background`
 
-> CSS Background related style props.
+CSS Background related style props.
 
-`yarn add @typed-system/background`
+```shell
+yarn add @typed-system/background
+```
+
+---
 
 | Prop                  | CSS Property          | Theme Key |
 | --------------------- | --------------------- | --------- |

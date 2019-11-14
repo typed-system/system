@@ -1,8 +1,12 @@
 # `@typed-system/color`
 
-> CSS Color related style props.
+CSS Color related style props.
 
-`yarn add @typed-system/color`
+```shell
+yarn add @typed-system/color
+```
+
+--
 
 | Prop                      | CSS Property       | Theme Key |
 | ------------------------- | ------------------ | --------- |

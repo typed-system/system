@@ -1,8 +1,12 @@
 # `@typed-system/typed-system`
 
-> Toolkit to create a Design System.
+Toolkit to create a Design System.
 
-`yarn add @typed-system/typed-system`
+```shell
+yarn add @typed-system/typed-system
+```
+
+---
 
 ## Usage
 

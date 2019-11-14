@@ -1,8 +1,12 @@
 # `@typed-system/shadow`
 
-> CSS Shadow related style props.
+CSS Shadow related style props.
 
-`yarn add @typed-system/shadow`
+```shell
+yarn add @typed-system/shadow
+```
+
+---
 
 | Prop          | CSS Property  | Theme Key |
 | ------------- | ------------- | --------- |

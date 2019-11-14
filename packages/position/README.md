@@ -1,8 +1,12 @@
 # `@typed-system/position`
 
-> CSS Position related style props.
+CSS Position related style props.
 
-`yarn add @typed-system/position`
+```shell
+yarn add @typed-system/position
+```
+
+---
 
 | Prop        | CSS Property | Theme Key  |
 | ----------- | ------------ | ---------- |

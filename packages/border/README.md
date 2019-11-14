@@ -1,8 +1,12 @@
 # `@typed-system/border`
 
-> CSS Border related style props.
+CSS Border related style props.
 
-`yarn add @typed-system/border`
+```shell
+yarn add @typed-system/border
+```
+
+---
 
 | Prop                       | CSS Property                  | Theme Key      |
 | -------------------------- | ----------------------------- | -------------- |

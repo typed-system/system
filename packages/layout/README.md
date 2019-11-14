@@ -1,8 +1,12 @@
 # `@typed-system/layout`
 
-> CSS Layout related style props.
+CSS Layout related style props.
 
-`yarn add @typed-system/layout`
+```shell
+yarn add @typed-system/layout
+```
+
+---
 
 | Prop             | CSS Property     | Theme Key |
 | ---------------- | ---------------- | --------- |

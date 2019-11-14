@@ -1,8 +1,12 @@
 # `@typed-system/engine-react`
 
-> React Bindings for Typed System.
+React Bindings for Typed System.
 
-`yarn add @typed-system/engine-react`
+```shell
+yarn add @typed-system/engine-react
+```
+
+---
 
 ## Usage
 
