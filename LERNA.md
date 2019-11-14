@@ -10,6 +10,21 @@ lerna will then symlink the packages and add it as a dependency to `package.json
 
 > Note that you can only symlink [one package at a time](https://github.com/lerna/lerna/tree/master/commands/add#usage).
 
+## How-to: Releasing
+
+From repository root run:
+
+```sh
+yarn lerna version
+```
+
+Confirm changes, then:
+
+```sh
+yarn lerna publish
+```
+
+
 ## Examples
 
 Add `react-dom` as a dependency to `@typed-system/background` package:
