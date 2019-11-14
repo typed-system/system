@@ -1,8 +1,21 @@
-<div align="center">
+<h1 align="center">
   <a href="https://github.com/typed-system/typed-system/">
-    <img alt="Typed System Logo" width="400" src="./website/assets/images/logo-typed-system.svg"/>
+    <img title="Typed System" alt="Typed System Logo" width="300" src="./website/assets/images/logo-typed-system.svg"/>
   </a>
-  <p>Typed System is a Toolkit to create your own Design System.<p>
+</h1>
+<p align="center">Toolkit to create your own Design System.</p>
+
+<div align="center">
+  <a href="https://github.com/typed-system/typed-system/blob/master/LICENSE">
+    <img alt="License Badge" src="https://img.shields.io/github/license/typed-system/typed-system.svg?style=flat-square"/>
+  </a>
+  <a href="https://circleci.com/gh/typed-system/typed-system">
+    <img alt="CircleCI Badge" src="https://img.shields.io/circleci/build/gh/typed-system/typed-system/master?style=flat-square"/>
+  </a>
+  <a href="https://codecov.io/gh/typed-system/typed-system">
+    <img alt="Codecov Badge" src="https://img.shields.io/codecov/c/github/typed-system/typed-system?style=flat-square"/>
+  </a>
+  <img alt="Codestyle" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"/>
 </div>
 
 ## Getting Started
@@ -43,9 +56,9 @@ TODO
 
 TODO
 
-* Why am I building this?
-* Comparision vs styled-system, styletron, styled-components, emotion etc.
-* Benchmarks
+- Why am I building this?
+- Comparision vs styled-system, styletron, styled-components, emotion etc.
+- Benchmarks
 
 ## Roadmap
 

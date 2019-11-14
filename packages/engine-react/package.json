@@ -17,8 +17,8 @@
     "/lib"
   ],
   "scripts": {
-    "build": "echo \"deactivated\" && exit 0",
-    "build2": "tsc -b ."
+    "build": "tsc -b .",
+    "prepublishOnly": "tsc -b ."
   },
   "publishConfig": {
     "registry": "https://registry.yarnpkg.com"
