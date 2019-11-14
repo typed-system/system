@@ -43,7 +43,21 @@ TODO
 
 TODO
 
+* Why am I building this?
+* Comparision vs styled-system, styletron, styled-components, emotion etc.
+* Benchmarks
+
+## Roadmap
+
+TODO
+
 ## Workflow
+
+Initalize this monorepo by running:
+
+```shell
+yarn
+```
 
 Build all packages:
 
