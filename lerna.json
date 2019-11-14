@@ -5,10 +5,12 @@
   "useWorkspaces": true,
   "command": {
     "version": {
-      "message": "chore(release): %s",
+      "allowBranch": "master",
+      "message": "chore(release): publish",
       "conventionalCommits": true
     },
     "publish": {
+      "allowBranch": "master",
       "tagVersionPrefix": "",
       "conventionalCommits": true
     }
