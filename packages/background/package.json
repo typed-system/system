@@ -28,5 +28,11 @@
   },
   "bugs": {
     "url": "https://github.com/typed-system/typed-system/issues"
+  },
+  "dependencies": {
+    "@typed-system/css": "^0.0.1"
+  },
+  "devDependencies": {
+    "csstype": "^2.6.7"
   }
 }
