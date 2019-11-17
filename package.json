@@ -10,7 +10,8 @@
   ],
   "scripts": {
     "prettier": "prettier --list-different \"*.{md,tsx,ts}\"",
-    "prettier:fix": "prettier --write \"*.{md,tsx,ts}\""
+    "prettier:fix": "prettier --write \"*.{md,tsx,ts}\"",
+    "test": "echo \"No tests.\" && exit 0"
   },
   "devDependencies": {
     "lerna": "^3.18.3",
