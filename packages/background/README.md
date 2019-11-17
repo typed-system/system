@@ -8,10 +8,10 @@ yarn add @typed-system/background
 
 ---
 
-| Prop                  | CSS Property          | Theme Key |
-| --------------------- | --------------------- | --------- |
-| `$background`         | `background`          | none      |
-| `$backgroundImage`    | `background-image`    | none      |
-| `$backgroundSize`     | `background-size`     | none      |
-| `$backgroundPosition` | `background-position` | none      |
-| `$backgroundRepeat`   | `background-repeat`   | none      |
+| Prop                  | Alias         | CSS Property          | Theme Key |
+| --------------------- | ------------- | --------------------- | --------- |
+| `$background`         | `$bg`         | `background`          |           |
+| `$backgroundImage`    | `$bgImage`    | `background-image`    |           |
+| `$backgroundSize`     | `$bgSize`     | `background-size`     |           |
+| `$backgroundPosition` | `$bgPosition` | `background-position` |           |
+| `$backgroundRepeat`   | `$bgRepeat`   | `background-repeat`   |           |

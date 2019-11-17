@@ -8,17 +8,17 @@ yarn add @typed-system/grid
 
 ---
 
-| Prop                   | CSS Property            | Theme Key |
-| ---------------------- | ----------------------- | --------- |
-| `$gridGap`             | `grid-gap`              | `spacing` |
-| `$gridRowGap`          | `grid-row-gap`          | `spacing` |
-| `$gridColumnGap`       | `grid-column-gap`       | `spacing` |
-| `$gridColumn`          | `grid-column`           | none      |
-| `$gridRow`             | `grid-row`              | none      |
-| `$gridArea`            | `grid-area`             | none      |
-| `$gridAutoFlow`        | `grid-auto-flow`        | none      |
-| `$gridAutoRows`        | `grid-auto-rows`        | none      |
-| `$gridAutoColumns`     | `grid-auto-columns`     | none      |
-| `$gridTemplateRows`    | `grid-template-rows`    | none      |
-| `$gridTemplateColumns` | `grid-template-columns` | none      |
-| `$gridTemplateAreas`   | `grid-template-areas`   | none      |
+| Prop                   | Alias | CSS Property            | Theme Key |
+| ---------------------- | ----- | ----------------------- | --------- |
+| `$gridGap`             |       | `grid-gap`              | `spacing` |
+| `$gridRowGap`          |       | `grid-row-gap`          | `spacing` |
+| `$gridColumnGap`       |       | `grid-column-gap`       | `spacing` |
+| `$gridColumn`          |       | `grid-column`           |           |
+| `$gridRow`             |       | `grid-row`              |           |
+| `$gridArea`            |       | `grid-area`             |           |
+| `$gridAutoFlow`        |       | `grid-auto-flow`        |           |
+| `$gridAutoRows`        |       | `grid-auto-rows`        |           |
+| `$gridAutoColumns`     |       | `grid-auto-columns`     |           |
+| `$gridTemplateRows`    |       | `grid-template-rows`    |           |
+| `$gridTemplateColumns` |       | `grid-template-columns` |           |
+| `$gridTemplateAreas`   |       | `grid-template-areas`   |           |

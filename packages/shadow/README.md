@@ -8,7 +8,7 @@ yarn add @typed-system/shadow
 
 ---
 
-| Prop          | CSS Property  | Theme Key |
-| ------------- | ------------- | --------- |
-| `$textShadow` | `text-shadow` | `shadows` |
-| `$boxShadow`  | `box-shadow`  | `shadows` |
+| Prop          | Alias | CSS Property  | Theme Key |
+| ------------- | ----- | ------------- | --------- |
+| `$textShadow` |       | `text-shadow` | `shadows` |
+| `$boxShadow`  |       | `box-shadow`  | `shadows` |

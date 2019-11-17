@@ -8,8 +8,8 @@ yarn add @typed-system/color
 
 --
 
-| Prop                      | CSS Property       | Theme Key |
-| ------------------------- | ------------------ | --------- |
-| `$color`                  | `color`            | `colors`  |
-| `$bg`, `$backgroundColor` | `background-color` | `colors`  |
-| `$opacity`                | `opacity`          | none      |
+| Prop               | Alias | CSS Property       | Theme Key |
+| ------------------ | ----- | ------------------ | --------- |
+| `$color`           |       | `color`            | `colors`  |
+| `$backgroundColor` | `$bg` | `background-color` | `colors`  |
+| `$opacity`         |       | `opacity`          |           |

@@ -8,19 +8,19 @@ yarn add @typed-system/spacing
 
 ---
 
-| Prop                    | CSS Property                    | Theme Key |
-| ----------------------- | ------------------------------- | --------- |
-| `$m`, `$margin`         | `margin`                        | `spacing` |
-| `$mt`, `$marginTop`     | `margin-top`                    | `spacing` |
-| `$mr`, `$marginRight`   | `margin-right`                  | `spacing` |
-| `$mb`, `$marginBottom`  | `margin-bottom`                 | `spacing` |
-| `$ml`, `$marginLeft`    | `margin-left`                   | `spacing` |
-| `$mx`                   | `margin-left`, `margin-right`   | `spacing` |
-| `$my`                   | `margin-top`, `margin-bottom`   | `spacing` |
-| `$p`, `$padding`        | `padding`                       | `spacing` |
-| `$pt`, `$paddingTop`    | `padding-top`                   | `spacing` |
-| `$pr`, `$paddingRight`  | `padding-right`                 | `spacing` |
-| `$pb`, `$paddingBottom` | `padding-bottom`                | `spacing` |
-| `$pl`, `$paddingLeft`   | `padding-left`                  | `spacing` |
-| `$px`                   | `padding-left`, `padding-right` | `spacing` |
-| `$py`                   | `padding-top`, `padding-bottom` | `spacing` |
+| Prop             | Alias | CSS Property                    | Theme Key |
+| ---------------- | ----- | ------------------------------- | --------- |
+| `$margin`        | `$m`  | `margin`                        | `spacing` |
+| `$marginTop`     | `$mt` | `margin-top`                    | `spacing` |
+| `$marginRight`   | `$mr` | `margin-right`                  | `spacing` |
+| `$marginBottom`  | `$mb` | `margin-bottom`                 | `spacing` |
+| `$marginLeft`    | `$ml` | `margin-left`                   | `spacing` |
+| `$marginX`       | `$mx` | `margin-left`, `margin-right`   | `spacing` |
+| `$marginY`       | `$my` | `margin-top`, `margin-bottom`   | `spacing` |
+| `$padding`       | `$p`  | `padding`                       | `spacing` |
+| `$paddingTop`    | `$pt` | `padding-top`                   | `spacing` |
+| `$paddingRight`  | `$pr` | `padding-right`                 | `spacing` |
+| `$paddingBottom` | `$pb` | `padding-bottom`                | `spacing` |
+| `$paddingLeft`   | `$pl` | `padding-left`                  | `spacing` |
+| `$paddingX`      | `$px` | `padding-left`, `padding-right` | `spacing` |
+| `$paddingY`      | `$py` | `padding-top`, `padding-bottom` | `spacing` |
