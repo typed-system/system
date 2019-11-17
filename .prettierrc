@@ -1,5 +1,5 @@
 {
-  "proseWrap": "never",
+  "proseWrap": "preserve",
   "semi": false,
   "arrowParens": "always",
   "bracketSpacing": true,
